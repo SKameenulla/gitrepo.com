@@ -1,0 +1,4 @@
+cpu
+mouse
+laptop
+desktop
